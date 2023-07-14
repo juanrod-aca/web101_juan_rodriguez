@@ -1,0 +1,9 @@
+.underline {
+  border: 1px solid black;
+   /* height: 1px; */
+   background: black;
+   /* width: 50%; */
+}
+section {
+  display: flex;
+}
